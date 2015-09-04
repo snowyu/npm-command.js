@@ -1,5 +1,5 @@
 {
-  "name": "npm-install",
+  "name": "npm-command",
   "description": "Execute npm commands programmly with synchronously or asynchronously.",
   "version": "0.0.1",
   "homepage": "https://github.com/snowyu/npm-install.js",
