@@ -19,6 +19,7 @@ addons:
     packages:
       - g++-4.8
 before_install:
+  - npm install -g npm
   - npm install -g grunt-cli
   - npm install coffee-script
   - npm link npm
