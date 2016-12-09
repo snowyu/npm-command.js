@@ -7,7 +7,7 @@
 [![license](https://img.shields.io/npm/l/npm-command.svg)](https://npmjs.org/package/npm-command)
 
 
-Execute npm commands programmly with asynchronously or synchronously(`npm install deasync` to supports).
+Execute npm commands programmly with asynchronously or synchronously(`npm install deasync` first to support sync).
 
 ## Usage
 
