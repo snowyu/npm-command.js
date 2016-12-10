@@ -22,6 +22,7 @@ addons:
 before_install:
   - npm install -g grunt-cli
   - npm install -g coffee-script
+  - npm install coffee-script
 before_script: grunt build
 script: npm run-script test-cov
 after_success:
